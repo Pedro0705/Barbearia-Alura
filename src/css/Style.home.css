@@ -1,0 +1,67 @@
+body {
+  font-family: 'Montserrat', sem serifa;
+}
+  
+
+#banner {
+  width: 100%;
+}
+
+.principal {
+  background: #cccccc;
+  padding: 30px;
+}
+
+.tituloprincipal {
+  padding-left: 20px;
+}
+
+.titulocentralizado {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+#missão {
+  font-size: 20px;
+}
+
+em strong {
+  color: #ff0000;
+}
+
+.itens {
+  font-style: italic;
+}
+
+.benefícios {
+  background: #FFFFFF;
+  padding: 20px;
+}
+
+h2 {
+  text-align: center;
+}
+
+ul {
+  display: inline-block;
+  vertical-align: top;
+  width: 10%;
+  margin-right: 15%;
+}
+
+.imagembeneficios {
+  width: 50%;
+}
+
+footer {
+  text-align: center;
+  background: url("/src/img/bg.jpg");
+  padding: 40px 0;
+}
+
+.Copyright {
+  color: #cccccc;
+}
